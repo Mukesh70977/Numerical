@@ -1,4 +1,4 @@
-abcdefghijklmnopqrstuvwxyz 67676
+clear
 
 1234567890
 
